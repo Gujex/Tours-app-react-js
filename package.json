@@ -1,5 +1,5 @@
 {
-    "homepage": "http: //Gujex.github.io/Tours-app-react-js",
+    "homepage": "http://Gujex.github.io/Tours-app-react-js",
     "name": "reminder",
     "version": "0.1.0",
     "private": true,
@@ -12,10 +12,10 @@
         "react-scripts": "3.4.3"
     },
     "scripts": {
-        "predeploy": "npm start run build",
+        "predeploy": "npm run build",
         "deploy": "gh-pages -d build",
         "start": "react-scripts start",
-        "build": "CI= react-scripts build",
+        "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject"
     },
